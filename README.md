@@ -1,2 +1,2 @@
-# Shopify-frontend-challenge
+# Shopify-InternChallenge
 Created with CodeSandbox

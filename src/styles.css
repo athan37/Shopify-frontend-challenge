@@ -1,0 +1,18 @@
+header {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+header > h1 {
+  font-weight: bold;
+}
+
+.header-date-query {
+  margin-top: 50px;
+  display: flex;
+}
+
+.left-query {
+  margin-right: 100px;
+}
